@@ -33,19 +33,13 @@ To run the project locally, follow these steps:
    git clone https://github.com/your-username/weather-website.git
    cd weather-website
    ```
-
-2. **Install Dependencies (if needed)**
-
-   ```bash
-   npm install  # Only if using Node.js for dependencies
-   ```
-
-3. **API Configuration:**
+   
+2. **API Configuration:**
 
    - Obtain an API key from [OpenWeather](https://openweathermap.org/)
    - Replace `API_KEY` in `api/endpoints.js` with your actual key
 
-4. **Run the Website:**
+3. **Run the Website:**
    - Open `index.html` in a browser
    - OR use Netlify server - (https://schoolweather.netlify.app/)
 
