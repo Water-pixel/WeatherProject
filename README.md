@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
 
 4. **Run the Website:**
    - Open `index.html` in a browser
-   - OR use a local server like Live Server (VS Code Extension)
+   - OR use Netlify server - (https://schoolweather.netlify.app/)
 
 ## 🏗️ Project Structure
 
